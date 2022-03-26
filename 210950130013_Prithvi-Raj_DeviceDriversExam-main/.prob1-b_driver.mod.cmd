@@ -1,0 +1,1 @@
+cmd_/home/Assignments/ldd/device_drivers_exam/prob1-b_driver.mod := { echo  /home/Assignments/ldd/device_drivers_exam/prob1-b_driver.o;  echo; } > /home/Assignments/ldd/device_drivers_exam/prob1-b_driver.mod

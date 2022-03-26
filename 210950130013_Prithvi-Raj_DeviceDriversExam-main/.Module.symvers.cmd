@@ -1,0 +1,1 @@
+cmd_/home/Assignments/ldd/device_drivers_exam/Module.symvers := sed 's/ko$$/o/' /home/Assignments/ldd/device_drivers_exam/modules.order | scripts/mod/modpost -m -a   -o /home/Assignments/ldd/device_drivers_exam/Module.symvers -e -i Module.symvers   -T -

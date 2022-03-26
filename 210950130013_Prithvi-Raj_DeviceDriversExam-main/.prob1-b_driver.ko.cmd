@@ -1,0 +1,1 @@
+cmd_/home/Assignments/ldd/device_drivers_exam/prob1-b_driver.ko := ld -r -EL --build-id=sha1  -T scripts/module.lds -o /home/Assignments/ldd/device_drivers_exam/prob1-b_driver.ko /home/Assignments/ldd/device_drivers_exam/prob1-b_driver.o /home/Assignments/ldd/device_drivers_exam/prob1-b_driver.mod.o;  true
